@@ -1,5 +1,3 @@
-# Project Information
-
 This is a demo project to show off new functionality in Gitwallet, the business builder for open source projects. 
 
 # Extended Support
